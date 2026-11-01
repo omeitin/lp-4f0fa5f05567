@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T16:05:21.363746-05:00",
+  "updated": "2026-11-01T18:27:38.761634-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -70,8 +70,8 @@
       "key": "club",
       "name": "Key Club",
       "teacher": "",
-      "color": "#78716c",
-      "primary": false
+      "color": "#4f46e5",
+      "primary": true
     },
     {
       "key": "cls",
@@ -336,8 +336,8 @@
       "subject": "Key Club",
       "subject_key": "club",
       "teacher": "",
-      "color": "#78716c",
-      "primary": false,
+      "color": "#4f46e5",
+      "primary": true,
       "type": "Other",
       "status": "missing",
       "due": "2026-10-06T15:30:00-04:00",
@@ -400,8 +400,8 @@
       "subject": "Key Club",
       "subject_key": "club",
       "teacher": "",
-      "color": "#78716c",
-      "primary": false,
+      "color": "#4f46e5",
+      "primary": true,
       "type": "Other",
       "status": "missing",
       "due": "2026-10-16T23:59:00-04:00",
