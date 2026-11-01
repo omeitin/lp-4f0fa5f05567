@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T18:27:38.761634-05:00",
+  "updated": "2026-11-01T18:48:21.725925-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -330,22 +330,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n6"
     },
     {
-      "id": "19015",
-      "title": "Oct 6, 2026",
-      "course": "26-27 Key Club",
-      "subject": "Key Club",
-      "subject_key": "club",
-      "teacher": "",
-      "color": "#4f46e5",
-      "primary": true,
-      "type": "Other",
-      "status": "missing",
-      "due": "2026-10-06T15:30:00-04:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1846/assignments/19015"
-    },
-    {
       "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n0",
       "title": "JJ6, B1, and F3 due 10/13",
       "course": "English 1 - Duran - 4(A)",
@@ -392,22 +376,6 @@
       "all_day": true,
       "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22000"
-    },
-    {
-      "id": "17832",
-      "title": "MDSO: Canned Food Drive",
-      "course": "26-27 Key Club",
-      "subject": "Key Club",
-      "subject_key": "club",
-      "teacher": "",
-      "color": "#4f46e5",
-      "primary": true,
-      "type": "Other",
-      "status": "missing",
-      "due": "2026-10-16T23:59:00-04:00",
-      "all_day": true,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1846/assignments/17832"
     },
     {
       "id": "https://stbrendanhigh.instructure.com/courses/1459/assignments#n24",
@@ -856,6 +824,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24289"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1846/modules#e1",
+      "title": "Nov 14: San Juan Bosco Food Distribution Event",
+      "course": "Key Club",
+      "subject": "Key Club",
+      "subject_key": "club",
+      "teacher": "",
+      "color": "#4f46e5",
+      "primary": true,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-11-14T23:59:00-05:00",
+      "all_day": true,
+      "points": 0.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1846/modules#e1"
     },
     {
       "id": "24285",
