@@ -60,21 +60,27 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Spanish 2 · Homework: Ch. 3 Vocabulary Workbook
-DTSTART;TZID=America/New_York:20261102T080000
-DTEND;TZID=America/New_York:20261102T081500
-DTSTAMP:20261102T003640Z
-UID:lucas-assignment-24714@planner
-DESCRIPTION:Spanish 2 - Alvarez - 7(A)\nDue Mon Nov 2 8:00 AM\nhttps://stb
- rendanhigh.instructure.com/courses/1180/assignments/24714
+SUMMARY:📝 HOPE-PE · Test: Module 3 Test
+DTSTART;TZID=America/New_York:20261102T235900
+DTEND;TZID=America/New_York:20261103T001400
+DTSTAMP:20261102T170730Z
+UID:lucas-assignment-21997@planner
+DESCRIPTION:HOPE-Physical Education (Core) - Sussingham - 5(A)\nDue Mon No
+ v 2 11:59 PM\nhttps://stbrendanhigh.instructure.com/courses/1319/assignmen
+ ts/21997
 TRANSP:TRANSPARENT
-URL:https://stbrendanhigh.instructure.com/courses/1180/assignments/24714
+URL:https://stbrendanhigh.instructure.com/courses/1319/assignments/21997
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Test in 1 hour: Module 3 Test
+TRIGGER:-PT1H
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English 1 · Homework: IXL S3\, V3\, and TT3 (from lesson plan)
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-https://stbrendanhigh.instructure.com/courses/1790/pa
  ges/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp1@planner
 DESCRIPTION:English 1 - Duran - 4(A)\nDue Mon Nov 2 end of day\nhttps://st
@@ -88,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:English 1 · Homework: ACT I
 DTSTART;TZID=America/New_York:20261103T070000
 DTEND;TZID=America/New_York:20261103T071500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-23449@planner
 DESCRIPTION:English 1 - Duran - 4(A)\nDue Tue Nov 3 7:00 AM\nhttps://stbre
  ndanhigh.instructure.com/courses/1790/assignments/23449
@@ -99,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Algebra 1 · Homework: ✅ IXLs G1-G3-G4 and H1-H4
 DTSTART;TZID=America/New_York:20261103T080000
 DTEND;TZID=America/New_York:20261103T081500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-22417@planner
 DESCRIPTION:Algebra 1 - De La Campa - 3(A)\nDue Tue Nov 3 8:00 AM\nhttps:/
  /stbrendanhigh.instructure.com/courses/1220/assignments/22417
@@ -110,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Algebra 1 · Homework: 📘 Pearson HW Lesson 3.1
 DTSTART;TZID=America/New_York:20261103T200000
 DTEND;TZID=America/New_York:20261103T201500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-24266@planner
 DESCRIPTION:Algebra 1 - De La Campa - 3(A)\nDue Tue Nov 3 8:00 PM\nhttps:/
  /stbrendanhigh.instructure.com/courses/1220/assignments/24266
@@ -121,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:HOPE-PE · Other: Dress Out / Participation
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-22006@planner
 DESCRIPTION:HOPE-Physical Education (Core) - Sussingham - 5(A)\nDue Tue No
  v 3 end of day\nhttps://stbrendanhigh.instructure.com/courses/1319/assignm
@@ -130,11 +136,22 @@ TRANSP:TRANSPARENT
 URL:https://stbrendanhigh.instructure.com/courses/1319/assignments/22006
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:World History · Other: Topic 10-Movie
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20261102T170730Z
+UID:lucas-assignment-25608@planner
+DESCRIPTION:World History - Aguiar - 1(A)\nDue Tue Nov 3 end of day\nhttps
+ ://stbrendanhigh.instructure.com/courses/1231/assignments/25608
+TRANSP:TRANSPARENT
+URL:https://stbrendanhigh.instructure.com/courses/1231/assignments/25608
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📝 English 1 · Test: Othello ACT I Test (in class\; from lesson
   plan)
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-https://stbrendanhigh.instructure.com/courses/1790/pa
  ges/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp2@planner
 DESCRIPTION:English 1 - Duran - 4(A)\nDue Tue Nov 3 end of day\nhttps://st
@@ -151,10 +168,24 @@ TRIGGER:-PT5H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Key Club · Other: Nov 3: Field trip (Honoring a Legacy of Faith\,
+  DIRECT hours) - register & pay first\, pick up form in B110 that morning 
+ (from email)
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20261102T170730Z
+UID:lucas-assignment-https://stbrendanhigh.instructure.com/courses/1846/an
+ nouncements/4554@planner
+DESCRIPTION:Key Club\nDue Tue Nov 3 end of day\nhttps://stbrendanhigh.inst
+ ructure.com/courses/1846/announcements/4554
+TRANSP:TRANSPARENT
+URL:https://stbrendanhigh.instructure.com/courses/1846/announcements/4554
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Class of 2030 · Other: Stuco AD Submission
 DTSTART;TZID=America/New_York:20261104T080000
 DTEND;TZID=America/New_York:20261104T081500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-24774@planner
 DESCRIPTION:STBHS Class of 2030\nDue Wed Nov 4 8:00 AM\nhttps://stbrendanh
  igh.instructure.com/courses/1822/assignments/24774
@@ -166,7 +197,7 @@ SUMMARY:English 1 · Homework: Voc. #5 HW Exercises on Sadlier (from lesso
  n plan)
 DTSTART;TZID=America/New_York:20261105T070000
 DTEND;TZID=America/New_York:20261105T071500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-https://stbrendanhigh.instructure.com/courses/1790/pa
  ges/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp3@planner
 DESCRIPTION:English 1 - Duran - 4(A)\nDue Thu Nov 5 7:00 AM\nhttps://stbre
@@ -180,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:✏️ Algebra 1 · Quiz: 🧐✏️ Quiz# 2 Lessons 3.1-3.2
 DTSTART;TZID=America/New_York:20261105T150000
 DTEND;TZID=America/New_York:20261105T151500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-25381@planner
 DESCRIPTION:Algebra 1 - De La Campa - 3(A)\nDue Thu Nov 5 3:00 PM\nhttps:/
  /stbrendanhigh.instructure.com/courses/1220/assignments/25381
@@ -196,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:Algebra 1 · Homework: 📘 Pearson HW Lesson 3.2
 DTSTART;TZID=America/New_York:20261105T200000
 DTEND;TZID=America/New_York:20261105T201500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-24270@planner
 DESCRIPTION:Algebra 1 - De La Campa - 3(A)\nDue Thu Nov 5 8:00 PM\nhttps:/
  /stbrendanhigh.instructure.com/courses/1220/assignments/24270
@@ -207,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:HOPE-PE · Other: Dress Out / Participation
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-22007@planner
 DESCRIPTION:HOPE-Physical Education (Core) - Sussingham - 5(A)\nDue Thu No
  v 5 end of day\nhttps://stbrendanhigh.instructure.com/courses/1319/assignm
@@ -219,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:Class of 2030 · Other: Stuco Video Submission
 DTSTART;TZID=America/New_York:20261106T080000
 DTEND;TZID=America/New_York:20261106T081500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-24776@planner
 DESCRIPTION:STBHS Class of 2030\nDue Fri Nov 6 8:00 AM\nhttps://stbrendanh
  igh.instructure.com/courses/1822/assignments/24776
@@ -230,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:📝 Algebra 1 · Test: 📗📙📗Test #2 Lessons 3.1-3.4
 DTSTART;TZID=America/New_York:20261109T150000
 DTEND;TZID=America/New_York:20261109T151500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-25396@planner
 DESCRIPTION:Algebra 1 - De La Campa - 3(A)\nDue Mon Nov 9 3:00 PM\nhttps:/
  /stbrendanhigh.instructure.com/courses/1220/assignments/25396
@@ -246,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:English 1 · Homework: IXL V4\, E4\, and G1 (from lesson plan)
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-https://stbrendanhigh.instructure.com/courses/1790/pa
  ges/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp4@planner
 DESCRIPTION:English 1 - Duran - 4(A)\nDue Mon Nov 9 end of day\nhttps://st
@@ -261,7 +292,7 @@ SUMMARY:✏️ English 1 · Quiz: Voc. #5 Quiz (in class\; from lesson pla
  n)
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-https://stbrendanhigh.instructure.com/courses/1790/pa
  ges/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp5@planner
 DESCRIPTION:English 1 - Duran - 4(A)\nDue Mon Nov 9 end of day\nhttps://st
@@ -280,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:Algebra 1 · Homework: 📘 Pearson HW Lesson 3.3
 DTSTART;TZID=America/New_York:20261110T200000
 DTEND;TZID=America/New_York:20261110T201500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-24280@planner
 DESCRIPTION:Algebra 1 - De La Campa - 3(A)\nDue Tue Nov 10 8:00 PM\nhttps:
  //stbrendanhigh.instructure.com/courses/1220/assignments/24280
@@ -291,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:English 1 · Homework: ACT II Study Guide (from lesson plan)
 DTSTART;TZID=America/New_York:20261112T070000
 DTEND;TZID=America/New_York:20261112T071500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-https://stbrendanhigh.instructure.com/courses/1790/pa
  ges/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp6@planner
 DESCRIPTION:English 1 - Duran - 4(A)\nDue Thu Nov 12 7:00 AM\nhttps://stbr
@@ -305,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Algebra 1 · Homework: 📘 Pearson HW Lesson 3.4
 DTSTART;TZID=America/New_York:20261112T200000
 DTEND;TZID=America/New_York:20261112T201500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-24289@planner
 DESCRIPTION:Algebra 1 - De La Campa - 3(A)\nDue Thu Nov 12 8:00 PM\nhttps:
  //stbrendanhigh.instructure.com/courses/1220/assignments/24289
@@ -313,10 +344,26 @@ TRANSP:TRANSPARENT
 URL:https://stbrendanhigh.instructure.com/courses/1220/assignments/24289
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📝 World History · Test: Topic 10 Test
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261102T170730Z
+UID:lucas-assignment-25607@planner
+DESCRIPTION:World History - Aguiar - 1(A)\nDue Thu Nov 12 end of day\nhttp
+ s://stbrendanhigh.instructure.com/courses/1231/assignments/25607
+TRANSP:TRANSPARENT
+URL:https://stbrendanhigh.instructure.com/courses/1231/assignments/25607
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Test in 1 hour: Topic 10 Test
+TRIGGER:-PT5H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Key Club · Other: Nov 14: San Juan Bosco Food Distribution Event
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-https://stbrendanhigh.instructure.com/courses/1846/mo
  dules#e1@planner
 DESCRIPTION:Key Club\nDue Sat Nov 14 end of day\nhttps://stbrendanhigh.ins
@@ -328,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Algebra 1 · Homework: 📘 Pearson HW Lesson 3.5
 DTSTART;TZID=America/New_York:20261117T200000
 DTEND;TZID=America/New_York:20261117T201500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-24285@planner
 DESCRIPTION:Algebra 1 - De La Campa - 3(A)\nDue Tue Nov 17 8:00 PM\nhttps:
  //stbrendanhigh.instructure.com/courses/1220/assignments/24285
@@ -339,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Algebra 1 · Homework: 📘 Pearson HW Lesson 3.6
 DTSTART;TZID=America/New_York:20261119T200000
 DTEND;TZID=America/New_York:20261119T201500
-DTSTAMP:20261102T003640Z
+DTSTAMP:20261102T170730Z
 UID:lucas-assignment-24297@planner
 DESCRIPTION:Algebra 1 - De La Campa - 3(A)\nDue Thu Nov 19 8:00 PM\nhttps:
  //stbrendanhigh.instructure.com/courses/1220/assignments/24297

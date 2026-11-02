@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T19:36:40.666469-05:00",
+  "updated": "2026-11-02T12:07:30.211745-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -618,20 +618,20 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n3"
     },
     {
-      "id": "24714",
-      "title": "Ch. 3 Vocabulary Workbook",
-      "course": "Spanish 2 - Alvarez - 7(A)",
-      "subject": "Spanish 2",
-      "subject_key": "spa",
-      "teacher": "Alvarez",
-      "color": "#e11d48",
-      "primary": true,
-      "type": "Homework",
+      "id": "21997",
+      "title": "Module 3 Test",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Test",
       "status": "due",
-      "due": "2026-11-02T08:00:00-05:00",
+      "due": "2026-11-02T23:59:00-05:00",
       "all_day": false,
       "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/24714"
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/21997"
     },
     {
       "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp1",
@@ -714,6 +714,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22006"
     },
     {
+      "id": "25608",
+      "title": "Topic 10-Movie",
+      "course": "World History - Aguiar - 1(A)",
+      "subject": "World History",
+      "subject_key": "wh",
+      "teacher": "Aguiar",
+      "color": "#b45309",
+      "primary": true,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-11-03T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments/25608"
+    },
+    {
       "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp2",
       "title": "Othello ACT I Test (in class; from lesson plan)",
       "course": "English 1 - Duran - 4(A)",
@@ -728,6 +744,22 @@
       "all_day": true,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp2"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4554",
+      "title": "Nov 3: Field trip (Honoring a Legacy of Faith, DIRECT hours) - register & pay first, pick up form in B110 that morning (from email)",
+      "course": "Key Club",
+      "subject": "Key Club",
+      "subject_key": "club",
+      "teacher": "",
+      "color": "#4f46e5",
+      "primary": true,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-11-03T23:59:00-05:00",
+      "all_day": true,
+      "points": 0.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4554"
     },
     {
       "id": "24774",
@@ -920,6 +952,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24289"
+    },
+    {
+      "id": "25607",
+      "title": "Topic 10 Test",
+      "course": "World History - Aguiar - 1(A)",
+      "subject": "World History",
+      "subject_key": "wh",
+      "teacher": "Aguiar",
+      "color": "#b45309",
+      "primary": true,
+      "type": "Test",
+      "status": "due",
+      "due": "2026-11-12T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments/25607"
     },
     {
       "id": "https://stbrendanhigh.instructure.com/courses/1846/modules#e1",
