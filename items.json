@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T18:48:21.725925-05:00",
+  "updated": "2026-11-01T19:36:40.666469-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -634,6 +634,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/24714"
     },
     {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp1",
+      "title": "IXL S3, V3, and TT3 (from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-02T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp1"
+    },
+    {
       "id": "23449",
       "title": "ACT I",
       "course": "English 1 - Duran - 4(A)",
@@ -698,6 +714,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22006"
     },
     {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp2",
+      "title": "Othello ACT I Test (in class; from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Test",
+      "status": "due",
+      "due": "2026-11-03T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp2"
+    },
+    {
       "id": "24774",
       "title": "Stuco AD Submission",
       "course": "STBHS Class of 2030",
@@ -712,6 +744,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1822/assignments/24774"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp3",
+      "title": "Voc. #5 HW Exercises on Sadlier (from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-05T07:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp3"
     },
     {
       "id": "25381",
@@ -794,6 +842,38 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/25396"
     },
     {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp4",
+      "title": "IXL V4, E4, and G1 (from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-09T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp4"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp5",
+      "title": "Voc. #5 Quiz (in class; from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Quiz",
+      "status": "due",
+      "due": "2026-11-09T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp5"
+    },
+    {
       "id": "24280",
       "title": "📘 Pearson HW Lesson 3.3",
       "course": "Algebra 1 - De La Campa - 3(A)",
@@ -808,6 +888,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24280"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp6",
+      "title": "ACT II Study Guide (from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-12T07:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp6"
     },
     {
       "id": "24289",
