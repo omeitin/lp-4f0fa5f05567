@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T12:07:30.211745-05:00",
+  "updated": "2026-11-02T16:24:05.316272-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -394,6 +394,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments#n24"
     },
     {
+      "id": "https://stbrendanhigh.instructure.com/courses/1180/grades#n28",
+      "title": "Ch. 2 L1- DO Pronouns-BOOKWORK (marked missing, 50/100)",
+      "course": "Spanish 2 - Alvarez - 7(A)",
+      "subject": "Spanish 2",
+      "subject_key": "spa",
+      "teacher": "Alvarez",
+      "color": "#e11d48",
+      "primary": true,
+      "type": "Homework",
+      "status": "missing",
+      "due": "2026-10-19T14:30:00-04:00",
+      "all_day": false,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/grades#n28"
+    },
+    {
       "id": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m10",
       "title": "Developing Personal Identity and Character (M3, L2)",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
@@ -602,20 +618,36 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n2"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n3",
-      "title": "ACT I pgs. 5-37",
-      "course": "English 1 - Duran - 4(A)",
-      "subject": "English 1",
-      "subject_key": "eng",
-      "teacher": "Duran",
-      "color": "#9333ea",
+      "id": "https://stbrendanhigh.instructure.com/courses/1459/grades#n27",
+      "title": "Luke 1-3 Notebook Reflection",
+      "course": "Rev Christ in Scripture-Jewish Hist - Heistand - 2(A)",
+      "subject": "Theology",
+      "subject_key": "theo",
+      "teacher": "Heistand",
+      "color": "#0891b2",
+      "primary": true,
+      "type": "Other",
+      "status": "missing",
+      "due": "2026-11-02T09:30:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1459/grades#n27"
+    },
+    {
+      "id": "24710",
+      "title": "Ch. 3 Voc. Wordsearch & Crossword",
+      "course": "Spanish 2 - Alvarez - 7(A)",
+      "subject": "Spanish 2",
+      "subject_key": "spa",
+      "teacher": "Alvarez",
+      "color": "#e11d48",
       "primary": true,
       "type": "Homework",
-      "status": "missing",
-      "due": "2026-10-27T14:30:00-04:00",
-      "all_day": false,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n3"
+      "status": "due",
+      "due": "2026-11-02T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/24710"
     },
     {
       "id": "21997",
@@ -634,8 +666,8 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/21997"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp1",
-      "title": "IXL S3, V3, and TT3 (from lesson plan)",
+      "id": "25705",
+      "title": "S3, V3, and TT3 due 11/02",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
       "subject_key": "eng",
@@ -647,7 +679,7 @@
       "due": "2026-11-02T23:59:00-05:00",
       "all_day": true,
       "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp1"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/25705"
     },
     {
       "id": "23449",
@@ -762,6 +794,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4554"
     },
     {
+      "id": "25678",
+      "title": "Photosynthesis WS",
+      "course": "Biology 1 - Solorzano - 6(A)",
+      "subject": "Biology 1",
+      "subject_key": "bio",
+      "teacher": "Solorzano",
+      "color": "#16a34a",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-04T08:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments/25678"
+    },
+    {
       "id": "24774",
       "title": "Stuco AD Submission",
       "course": "STBHS Class of 2030",
@@ -856,6 +904,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1822/assignments/24776"
+    },
+    {
+      "id": "24711",
+      "title": "Ch. 3 Vocabulary Quiz",
+      "course": "Spanish 2 - Alvarez - 7(A)",
+      "subject": "Spanish 2",
+      "subject_key": "spa",
+      "teacher": "Alvarez",
+      "color": "#e11d48",
+      "primary": true,
+      "type": "Quiz",
+      "status": "due",
+      "due": "2026-11-06T13:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/24711"
     },
     {
       "id": "25396",
@@ -1000,6 +1064,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24285"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1220/pages/lesson-plans-weeks-13-15#lp1",
+      "title": "IXL K1, K2, K5 and L1, L2, L3, L4, L10 (from lesson plan; plan says Thursday 11-18)",
+      "course": "Algebra 1 - De La Campa - 3(A)",
+      "subject": "Algebra 1",
+      "subject_key": "alg",
+      "teacher": "De La Campa",
+      "color": "#2563eb",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-18T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/pages/lesson-plans-weeks-13-15#lp1"
     },
     {
       "id": "24297",
