@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:07:57.691072-05:00",
+  "updated": "2026-11-03T16:07:37.605081-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -89,22 +89,6 @@
     }
   ],
   "items": [
-    {
-      "id": "17315",
-      "title": "26-27 Parent-Student Handbook Acknowledgement Form and Parent Covenant",
-      "course": "STBHS Class of 2030",
-      "subject": "Class of 2030",
-      "subject_key": "cls",
-      "teacher": "",
-      "color": "#78716c",
-      "primary": false,
-      "type": "Other",
-      "status": "missing",
-      "due": null,
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1822/assignments/17315"
-    },
     {
       "id": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n14",
       "title": "📘 Pearson HW Lesson 1.5/1.6 (graded 0/100)",
@@ -507,7 +491,7 @@
     },
     {
       "id": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n19",
-      "title": "Ch. 2 L1 -car, -gar, -zar Verbs in Preterite Exercises (graded 0/100)",
+      "title": "Ch. 2 L1 -car, -gar, -zar Verbs in Preterite Exercises (submitted late Nov 2, graded 0/100)",
       "course": "Spanish 2 - Alvarez - 7(A)",
       "subject": "Spanish 2",
       "subject_key": "spa",
@@ -523,7 +507,7 @@
     },
     {
       "id": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n20",
-      "title": "-car,-gar, -zar verbs practice worksheets (graded 0/100)",
+      "title": "-car,-gar, -zar verbs practice worksheets (submitted late Nov 2, graded 0/100)",
       "course": "Spanish 2 - Alvarez - 7(A)",
       "subject": "Spanish 2",
       "subject_key": "spa",
@@ -634,20 +618,84 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1459/grades#n27"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1869/announcements/4631",
-      "title": "Club meeting after school in room D215 (from email)",
-      "course": "Sabres Sports Media Club",
-      "subject": "Sports Media",
-      "subject_key": "media",
-      "teacher": "",
-      "color": "#c2410c",
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n30",
+      "title": "S3, V3, and TT3 due 11/02",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "missing",
+      "due": "2026-11-02T23:59:00-05:00",
+      "all_day": true,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n30"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1319/grades#n33",
+      "title": "Module 3 Test",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Test",
+      "status": "missing",
+      "due": "2026-11-02T23:59:00-05:00",
+      "all_day": true,
+      "points": 26.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/grades#n33"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n31",
+      "title": "ACT I",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "missing",
+      "due": "2026-11-03T07:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n31"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n29",
+      "title": "✅ IXLs G1-G3-G4 and H1-H4 (no submission)",
+      "course": "Algebra 1 - De La Campa - 3(A)",
+      "subject": "Algebra 1",
+      "subject_key": "alg",
+      "teacher": "De La Campa",
+      "color": "#2563eb",
+      "primary": true,
+      "type": "Homework",
+      "status": "missing",
+      "due": "2026-11-03T08:00:00-05:00",
+      "all_day": false,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n29"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1459/grades#n32",
+      "title": "Luke 4 Notebook Reflection",
+      "course": "Rev Christ in Scripture-Jewish Hist - Heistand - 2(A)",
+      "subject": "Theology",
+      "subject_key": "theo",
+      "teacher": "Heistand",
+      "color": "#0891b2",
       "primary": true,
       "type": "Other",
-      "status": "due",
-      "due": "2026-11-03T14:45:00-05:00",
+      "status": "missing",
+      "due": "2026-11-03T11:00:00-05:00",
       "all_day": false,
-      "points": 0.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1869/announcements/4631"
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1459/grades#n32"
     },
     {
       "id": "24266",
@@ -714,22 +762,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp2"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4554",
-      "title": "Nov 3: Field trip (Honoring a Legacy of Faith, DIRECT hours) - register & pay first, pick up form in B110 that morning (from email)",
-      "course": "Key Club",
-      "subject": "Key Club",
-      "subject_key": "club",
-      "teacher": "",
-      "color": "#4f46e5",
-      "primary": true,
-      "type": "Other",
-      "status": "due",
-      "due": "2026-11-03T23:59:00-05:00",
-      "all_day": true,
-      "points": 0.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4554"
-    },
-    {
       "id": "25678",
       "title": "Photosynthesis WS",
       "course": "Biology 1 - Solorzano - 6(A)",
@@ -762,6 +794,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1822/assignments/24774"
     },
     {
+      "id": "25978",
+      "title": "Photosynthesis Quiz",
+      "course": "Biology 1 - Solorzano - 6(A)",
+      "subject": "Biology 1",
+      "subject_key": "bio",
+      "teacher": "Solorzano",
+      "color": "#16a34a",
+      "primary": true,
+      "type": "Quiz",
+      "status": "due",
+      "due": "2026-11-04T14:30:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments/25978"
+    },
+    {
       "id": "25752",
       "title": "Voc. #5 Completing the Sentence",
       "course": "English 1 - Duran - 4(A)",
@@ -792,22 +840,6 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/25754"
-    },
-    {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp3",
-      "title": "Voc. #5 HW Exercises on Sadlier (from lesson plan)",
-      "course": "English 1 - Duran - 4(A)",
-      "subject": "English 1",
-      "subject_key": "eng",
-      "teacher": "Duran",
-      "color": "#9333ea",
-      "primary": true,
-      "type": "Homework",
-      "status": "due",
-      "due": "2026-11-05T07:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp3"
     },
     {
       "id": "25381",
@@ -954,8 +986,8 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24280"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp6",
-      "title": "ACT II Study Guide (from lesson plan)",
+      "id": "25972",
+      "title": "ACT II",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
       "subject_key": "eng",
@@ -967,7 +999,7 @@
       "due": "2026-11-12T07:00:00-05:00",
       "all_day": false,
       "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp6"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/25972"
     },
     {
       "id": "24289",
