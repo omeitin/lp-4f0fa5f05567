@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T17:04:24.160417-05:00",
+  "updated": "2026-11-05T16:22:09.763489-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -90,23 +90,7 @@
   ],
   "items": [
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n14",
-      "title": "📘 Pearson HW Lesson 1.5/1.6 (graded 0/100)",
-      "course": "Algebra 1 - De La Campa - 3(A)",
-      "subject": "Algebra 1",
-      "subject_key": "alg",
-      "teacher": "De La Campa",
-      "color": "#2563eb",
-      "primary": true,
-      "type": "Homework",
-      "status": "missing",
-      "due": null,
-      "all_day": false,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n14"
-    },
-    {
-      "id": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n23",
+      "id": "9828",
       "title": "CW-Conocer a tus companeros (graded 0/100)",
       "course": "Spanish 2 - Alvarez - 7(A)",
       "subject": "Spanish 2",
@@ -119,10 +103,10 @@
       "due": "2026-08-17T14:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n23"
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/9828"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n13",
+      "id": "10954",
       "title": "📘 Pearson HW Lesson 1.2 (graded 0/100)",
       "course": "Algebra 1 - De La Campa - 3(A)",
       "subject": "Algebra 1",
@@ -135,10 +119,26 @@
       "due": "2026-08-24T16:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n13"
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/10954"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n22",
+      "id": "12652",
+      "title": "📘 Pearson HW Lesson 1.5/1.6 (graded 0/100)",
+      "course": "Algebra 1 - De La Campa - 3(A)",
+      "subject": "Algebra 1",
+      "subject_key": "alg",
+      "teacher": "De La Campa",
+      "color": "#2563eb",
+      "primary": true,
+      "type": "Homework",
+      "status": "missing",
+      "due": "2026-09-01T16:00:00-04:00",
+      "all_day": false,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/12652"
+    },
+    {
+      "id": "13487",
       "title": "TEST REVIEW- Ch. 1 Lesson 1 (graded 0/100)",
       "course": "Spanish 2 - Alvarez - 7(A)",
       "subject": "Spanish 2",
@@ -151,10 +151,10 @@
       "due": "2026-09-02T14:30:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n22"
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/13487"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n9",
+      "id": "12932",
       "title": "A1, E3, & JJ1 due 9/7 (graded 0/100)",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -167,10 +167,10 @@
       "due": "2026-09-07T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n9"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/12932"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n8",
+      "id": "13432",
       "title": "Voc. #2 Completing the Sentence (graded 0/100)",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -183,10 +183,26 @@
       "due": "2026-09-08T07:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n8"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/13432"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n7",
+      "id": "9629",
+      "title": "Health Risks and Your Behavior (M1,L3) (graded 0/100)",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Other",
+      "status": "missing",
+      "due": "2026-09-09T23:59:00-04:00",
+      "all_day": true,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/9629"
+    },
+    {
+      "id": "15099",
       "title": "H1, R1, and JJ4 due 9/14 (graded 0/100)",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -199,10 +215,10 @@
       "due": "2026-09-14T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n7"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/15099"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1231/assignments#n18",
+      "id": "15657",
       "title": "St. Louis IX letter (graded 0/100)",
       "course": "World History - Aguiar - 1(A)",
       "subject": "World History",
@@ -215,10 +231,10 @@
       "due": "2026-09-18T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments#n18"
+      "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments/15657"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1373/assignments#n15",
+      "id": "15367",
       "title": "Organelle Commercial Project (graded 0/100)",
       "course": "Biology 1 - Solorzano - 6(A)",
       "subject": "Biology 1",
@@ -231,10 +247,10 @@
       "due": "2026-09-21T08:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments#n15"
+      "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments/15367"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n12",
+      "id": "15456",
       "title": "✅ IXL Completion C 7-8-10-11 (graded 0/100)",
       "course": "Algebra 1 - De La Campa - 3(A)",
       "subject": "Algebra 1",
@@ -247,10 +263,26 @@
       "due": "2026-09-23T08:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n12"
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/15456"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n11",
+      "id": "17114",
+      "title": "9/23 (graded 0/100)",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Other",
+      "status": "missing",
+      "due": "2026-09-23T23:59:00-04:00",
+      "all_day": true,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/17114"
+    },
+    {
+      "id": "15459",
       "title": "📘 Pearson HW Lesson 2.5-2.6 (graded 0/100)",
       "course": "Algebra 1 - De La Campa - 3(A)",
       "subject": "Algebra 1",
@@ -263,10 +295,10 @@
       "due": "2026-09-24T20:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n11"
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/15459"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1459/assignments#n26",
+      "id": "17494",
       "title": "Letter to Self (graded 0/100)",
       "course": "Rev Christ in Scripture-Jewish Hist - Heistand - 2(A)",
       "subject": "Theology",
@@ -279,10 +311,10 @@
       "due": "2026-10-02T13:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments#n26"
+      "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments/17494"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1459/assignments#n25",
+      "id": "18807",
       "title": "Study Guide Practice Questions (graded 0/100)",
       "course": "Rev Christ in Scripture-Jewish Hist - Heistand - 2(A)",
       "subject": "Theology",
@@ -295,10 +327,10 @@
       "due": "2026-10-05T07:30:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments#n25"
+      "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments/18807"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n6",
+      "id": "19604",
       "title": "F2,II4,JJ2 due 10/05 (graded 0/100)",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -311,10 +343,42 @@
       "due": "2026-10-05T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n6"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/19604"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n0",
+      "id": "17118",
+      "title": "Dress Out / Participation",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Other",
+      "status": "missing",
+      "due": "2026-10-06T23:59:00-04:00",
+      "all_day": true,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/17118"
+    },
+    {
+      "id": "17119",
+      "title": "Dress Out / Participation",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Other",
+      "status": "missing",
+      "due": "2026-10-08T23:59:00-04:00",
+      "all_day": true,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/17119"
+    },
+    {
+      "id": "21297",
       "title": "JJ6, B1, and F3 due 10/13",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -327,11 +391,11 @@
       "due": "2026-10-13T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n0"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/21297"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1373/assignments#n16",
-      "title": "Ch4 ATP, Electron Carriers, and Glycolysis Review (graded 0/100)",
+      "id": "19799",
+      "title": "Ch4 ATP, Electron Carriers, and Glycolysis Review",
       "course": "Biology 1 - Solorzano - 6(A)",
       "subject": "Biology 1",
       "subject_key": "bio",
@@ -343,7 +407,7 @@
       "due": "2026-10-14T14:30:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments#n16"
+      "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments/19799"
     },
     {
       "id": "22000",
@@ -362,9 +426,9 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22000"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1459/assignments#n24",
-      "title": "Respect Life Parent Letter (graded 0/100)",
-      "course": "Rev Christ in Scripture-Jewish Hist - Heistand - 2(A)",
+      "id": "22372",
+      "title": "Respect Life Parent Letter",
+      "course": "Rev Christ in Scripture-Jewish Hist (S1) - Heistand - 2(A)",
       "subject": "Theology",
       "subject_key": "theo",
       "teacher": "Heistand",
@@ -375,11 +439,11 @@
       "due": "2026-10-19T07:30:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments#n24"
+      "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments/22372"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1180/grades#n28",
-      "title": "Ch. 2 L1- DO Pronouns-BOOKWORK (marked missing, 50/100)",
+      "id": "22545",
+      "title": "Ch. 2 L1- DO Pronouns-BOOKWORK",
       "course": "Spanish 2 - Alvarez - 7(A)",
       "subject": "Spanish 2",
       "subject_key": "spa",
@@ -391,10 +455,10 @@
       "due": "2026-10-19T14:30:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/grades#n28"
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/22545"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m10",
+      "id": "21999",
       "title": "Developing Personal Identity and Character (M3, L2)",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
       "subject": "HOPE-PE",
@@ -407,11 +471,11 @@
       "due": "2026-10-19T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m10"
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/21999"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n4",
-      "title": "Voc. #4 Completing the Sentence (graded 0/100)",
+      "id": "21544",
+      "title": "Voc. #4 Completing the Sentence",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
       "subject_key": "eng",
@@ -423,11 +487,11 @@
       "due": "2026-10-20T07:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n4"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/21544"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n5",
-      "title": "Voc. #4 Synonyms (graded 0/100)",
+      "id": "21545",
+      "title": "Voc. #4 Synonyms",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
       "subject_key": "eng",
@@ -439,11 +503,11 @@
       "due": "2026-10-20T07:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n5"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/21545"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n21",
-      "title": "Ch. 2 L1 Double Object Pronouns Worksheets (graded 0/100)",
+      "id": "22551",
+      "title": "Ch. 2 L1 Double Object Pronouns Worksheets",
       "course": "Spanish 2 - Alvarez - 7(A)",
       "subject": "Spanish 2",
       "subject_key": "spa",
@@ -455,11 +519,11 @@
       "due": "2026-10-20T08:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n21"
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/22551"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m12",
-      "title": "Dress Out / Participation (no grade)",
+      "id": "22002",
+      "title": "Dress Out / Participation",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
       "subject": "HOPE-PE",
       "subject_key": "pe",
@@ -471,10 +535,10 @@
       "due": "2026-10-20T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m12"
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22002"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n1",
+      "id": "22519",
       "title": "J3, S2, and RR2 due 10/19",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -487,27 +551,11 @@
       "due": "2026-10-20T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n1"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/22519"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n19",
-      "title": "Ch. 2 L1 -car, -gar, -zar Verbs in Preterite Exercises (submitted late Nov 2, graded 0/100)",
-      "course": "Spanish 2 - Alvarez - 7(A)",
-      "subject": "Spanish 2",
-      "subject_key": "spa",
-      "teacher": "Alvarez",
-      "color": "#e11d48",
-      "primary": true,
-      "type": "Other",
-      "status": "missing",
-      "due": "2026-10-21T14:30:00-04:00",
-      "all_day": false,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n19"
-    },
-    {
-      "id": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n20",
-      "title": "-car,-gar, -zar verbs practice worksheets (submitted late Nov 2, graded 0/100)",
+      "id": "23044",
+      "title": "-car,-gar, -zar verbs practice worksheets",
       "course": "Spanish 2 - Alvarez - 7(A)",
       "subject": "Spanish 2",
       "subject_key": "spa",
@@ -519,11 +567,27 @@
       "due": "2026-10-21T14:30:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments#n20"
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/23044"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n10",
-      "title": "📘 Pearson HW Lesson 9.2 (graded 0/100)",
+      "id": "23043",
+      "title": "Ch. 2 L1 -car, -gar, -zar Verbs in Preterite Exercises",
+      "course": "Spanish 2 - Alvarez - 7(A)",
+      "subject": "Spanish 2",
+      "subject_key": "spa",
+      "teacher": "Alvarez",
+      "color": "#e11d48",
+      "primary": true,
+      "type": "Other",
+      "status": "missing",
+      "due": "2026-10-21T14:30:00-04:00",
+      "all_day": false,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/23043"
+    },
+    {
+      "id": "21076",
+      "title": "📘 Pearson HW Lesson 9.2",
       "course": "Algebra 1 - De La Campa - 3(A)",
       "subject": "Algebra 1",
       "subject_key": "alg",
@@ -535,11 +599,11 @@
       "due": "2026-10-22T20:00:00-04:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n10"
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/21076"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m11",
-      "title": "Dress Out / Participation (no submission)",
+      "id": "22003",
+      "title": "Dress Out / Participation",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
       "subject": "HOPE-PE",
       "subject_key": "pe",
@@ -551,11 +615,11 @@
       "due": "2026-10-22T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m11"
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22003"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1231/assignments#n17",
-      "title": "Operacion Pedro Pan (graded 0/100)",
+      "id": "23366",
+      "title": "Operacion Pedro Pan",
       "course": "World History - Aguiar - 1(A)",
       "subject": "World History",
       "subject_key": "wh",
@@ -567,10 +631,10 @@
       "due": "2026-10-23T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments#n17"
+      "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments/23366"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m13",
+      "id": "22008",
       "title": "Expressing Emotions in Healthful Ways (M3, L3)",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
       "subject": "HOPE-PE",
@@ -583,10 +647,10 @@
       "due": "2026-10-26T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m13"
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22008"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n2",
+      "id": "24317",
       "title": "R2, RR3, and TT2 due 10/26",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -599,10 +663,26 @@
       "due": "2026-10-26T23:59:00-04:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n2"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/24317"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n30",
+      "id": "21997",
+      "title": "Module 3 Test",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Test",
+      "status": "missing",
+      "due": "2026-11-02T23:59:00-05:00",
+      "all_day": false,
+      "points": 26.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/21997"
+    },
+    {
+      "id": "25705",
       "title": "S3, V3, and TT3 due 11/02",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -615,26 +695,10 @@
       "due": "2026-11-02T23:59:00-05:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n30"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/25705"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1319/grades#n33",
-      "title": "Module 3 Test",
-      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
-      "subject": "HOPE-PE",
-      "subject_key": "pe",
-      "teacher": "Sussingham",
-      "color": "#64748b",
-      "primary": false,
-      "type": "Test",
-      "status": "missing",
-      "due": "2026-11-02T23:59:00-05:00",
-      "all_day": true,
-      "points": 26.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1319/grades#n33"
-    },
-    {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n31",
+      "id": "23449",
       "title": "ACT I",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -646,12 +710,12 @@
       "status": "missing",
       "due": "2026-11-03T07:00:00-05:00",
       "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n31"
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/23449"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n29",
-      "title": "✅ IXLs G1-G3-G4 and H1-H4 (no submission)",
+      "id": "22417",
+      "title": "✅ IXLs G1-G3-G4 and H1-H4",
       "course": "Algebra 1 - De La Campa - 3(A)",
       "subject": "Algebra 1",
       "subject_key": "alg",
@@ -663,12 +727,12 @@
       "due": "2026-11-03T08:00:00-05:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n29"
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/22417"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1459/grades#n32",
+      "id": "25859",
       "title": "Luke 4 Notebook Reflection",
-      "course": "Rev Christ in Scripture-Jewish Hist - Heistand - 2(A)",
+      "course": "Rev Christ in Scripture-Jewish Hist (S1) - Heistand - 2(A)",
       "subject": "Theology",
       "subject_key": "theo",
       "teacher": "Heistand",
@@ -679,11 +743,11 @@
       "due": "2026-11-03T11:00:00-05:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1459/grades#n32"
+      "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments/25859"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n34",
-      "title": "📘 Pearson HW Lesson 3.1 (no submission)",
+      "id": "24266",
+      "title": "📘 Pearson HW Lesson 3.1",
       "course": "Algebra 1 - De La Campa - 3(A)",
       "subject": "Algebra 1",
       "subject_key": "alg",
@@ -695,43 +759,11 @@
       "due": "2026-11-03T20:00:00-05:00",
       "all_day": false,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments#n34"
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24266"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n35",
-      "title": "Voc. #5 Antonyms (no submission)",
-      "course": "English 1 - Duran - 4(A)",
-      "subject": "English 1",
-      "subject_key": "eng",
-      "teacher": "Duran",
-      "color": "#9333ea",
-      "primary": true,
-      "type": "Homework",
-      "status": "missing",
-      "due": "2026-11-03T23:59:00-05:00",
-      "all_day": true,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments#n35"
-    },
-    {
-      "id": "https://stbrendanhigh.instructure.com/courses/1459/grades#n37",
-      "title": "Baby Bottle Bank Turn-In (graded 0/100)",
-      "course": "Rev Christ in Scripture-Jewish Hist - Heistand - 2(A)",
-      "subject": "Theology",
-      "subject_key": "theo",
-      "teacher": "Heistand",
-      "color": "#0891b2",
-      "primary": true,
-      "type": "Other",
-      "status": "missing",
-      "due": "2026-11-03T23:59:00-05:00",
-      "all_day": true,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1459/grades#n37"
-    },
-    {
-      "id": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m38",
-      "title": "Dress Out / Participation (no grade)",
+      "id": "22006",
+      "title": "Dress Out / Participation",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
       "subject": "HOPE-PE",
       "subject_key": "pe",
@@ -743,11 +775,27 @@
       "due": "2026-11-03T23:59:00-05:00",
       "all_day": true,
       "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments#m38"
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22006"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1373/grades#n36",
-      "title": "Photosynthesis WS (missing)",
+      "id": "25753",
+      "title": "Voc. #5 Antonyms",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "missing",
+      "due": "2026-11-03T23:59:00-05:00",
+      "all_day": true,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/25753"
+    },
+    {
+      "id": "25678",
+      "title": "Photosynthesis WS",
       "course": "Biology 1 - Solorzano - 6(A)",
       "subject": "Biology 1",
       "subject_key": "bio",
@@ -758,8 +806,8 @@
       "status": "missing",
       "due": "2026-11-04T08:00:00-05:00",
       "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1373/grades#n36"
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments/25678"
     },
     {
       "id": "25752",
@@ -771,10 +819,10 @@
       "color": "#9333ea",
       "primary": true,
       "type": "Homework",
-      "status": "due",
+      "status": "missing",
       "due": "2026-11-05T07:00:00-05:00",
       "all_day": false,
-      "points": null,
+      "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/25752"
     },
     {
@@ -787,10 +835,10 @@
       "color": "#9333ea",
       "primary": true,
       "type": "Homework",
-      "status": "due",
+      "status": "missing",
       "due": "2026-11-05T07:00:00-05:00",
       "all_day": false,
-      "points": null,
+      "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/25754"
     },
     {
@@ -803,10 +851,10 @@
       "color": "#2563eb",
       "primary": true,
       "type": "Quiz",
-      "status": "due",
+      "status": "missing",
       "due": "2026-11-05T15:00:00-05:00",
       "all_day": false,
-      "points": null,
+      "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/25381"
     },
     {
@@ -890,6 +938,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/24711"
     },
     {
+      "id": "22380",
+      "title": "St. John Bosco Food Drive (ends; drop-off B109/B110)",
+      "course": "Key Club",
+      "subject": "Key Club",
+      "subject_key": "club",
+      "teacher": "",
+      "color": "#4f46e5",
+      "primary": true,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-11-06T23:59:00-05:00",
+      "all_day": true,
+      "points": 0.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1846/assignments/22380"
+    },
+    {
       "id": "25396",
       "title": "📗📙📗Test #2 Lessons 3.1-3.4",
       "course": "Algebra 1 - De La Campa - 3(A)",
@@ -936,6 +1000,22 @@
       "all_day": true,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp5"
+    },
+    {
+      "id": "26362",
+      "title": "Thesis Statement 2",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-11-10T07:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/26362"
     },
     {
       "id": "24280",
@@ -1003,7 +1083,7 @@
     },
     {
       "id": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4690",
-      "title": "Nov 14: San Juan Bosco Food Distribution (8:30am–12:30pm; register) (from email)",
+      "title": "Nov 14: San Juan Bosco Food Distribution (8:30am–12:30pm; register)",
       "course": "Key Club",
       "subject": "Key Club",
       "subject_key": "club",
