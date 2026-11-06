@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T16:22:43.844029-05:00",
+  "updated": "2026-11-06T12:08:47.725614-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -666,22 +666,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/24317"
     },
     {
-      "id": "21997",
-      "title": "Module 3 Test",
-      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
-      "subject": "HOPE-PE",
-      "subject_key": "pe",
-      "teacher": "Sussingham",
-      "color": "#64748b",
-      "primary": false,
-      "type": "Test",
-      "status": "missing",
-      "due": "2026-11-02T23:59:00-05:00",
-      "all_day": false,
-      "points": 26.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/21997"
-    },
-    {
       "id": "25705",
       "title": "S3, V3, and TT3 due 11/02",
       "course": "English 1 - Duran - 4(A)",
@@ -714,22 +698,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/23449"
     },
     {
-      "id": "22417",
-      "title": "✅ IXLs G1-G3-G4 and H1-H4 (no submission)",
-      "course": "Algebra 1 - De La Campa - 3(A)",
-      "subject": "Algebra 1",
-      "subject_key": "alg",
-      "teacher": "De La Campa",
-      "color": "#2563eb",
-      "primary": true,
-      "type": "Homework",
-      "status": "missing",
-      "due": "2026-11-03T08:00:00-05:00",
-      "all_day": false,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/22417"
-    },
-    {
       "id": "25859",
       "title": "Luke 4 Notebook Reflection",
       "course": "Rev Christ in Scripture-Jewish Hist (S1) - Heistand - 2(A)",
@@ -744,22 +712,6 @@
       "all_day": false,
       "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments/25859"
-    },
-    {
-      "id": "24266",
-      "title": "📘 Pearson HW Lesson 3.1 (no submission)",
-      "course": "Algebra 1 - De La Campa - 3(A)",
-      "subject": "Algebra 1",
-      "subject_key": "alg",
-      "teacher": "De La Campa",
-      "color": "#2563eb",
-      "primary": true,
-      "type": "Homework",
-      "status": "missing",
-      "due": "2026-11-03T20:00:00-05:00",
-      "all_day": false,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24266"
     },
     {
       "id": "22006",
@@ -852,74 +804,10 @@
       "primary": true,
       "type": "Quiz",
       "status": "missing",
-      "due": "2026-11-05T15:00:00-05:00",
+      "due": "2026-11-09T15:00:00-05:00",
       "all_day": false,
       "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/25381"
-    },
-    {
-      "id": "24270",
-      "title": "📘 Pearson HW Lesson 3.2",
-      "course": "Algebra 1 - De La Campa - 3(A)",
-      "subject": "Algebra 1",
-      "subject_key": "alg",
-      "teacher": "De La Campa",
-      "color": "#2563eb",
-      "primary": true,
-      "type": "Homework",
-      "status": "due",
-      "due": "2026-11-05T20:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24270"
-    },
-    {
-      "id": "22007",
-      "title": "Dress Out / Participation",
-      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
-      "subject": "HOPE-PE",
-      "subject_key": "pe",
-      "teacher": "Sussingham",
-      "color": "#64748b",
-      "primary": false,
-      "type": "Other",
-      "status": "due",
-      "due": "2026-11-05T23:59:00-05:00",
-      "all_day": true,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22007"
-    },
-    {
-      "id": "24706",
-      "title": "Ch. 3 L1 Irregular Pret. Verbs worksheets",
-      "course": "Spanish 2 - Alvarez - 7(A)",
-      "subject": "Spanish 2",
-      "subject_key": "spa",
-      "teacher": "Alvarez",
-      "color": "#e11d48",
-      "primary": true,
-      "type": "Homework",
-      "status": "due",
-      "due": "2026-11-06T08:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/24706"
-    },
-    {
-      "id": "24776",
-      "title": "Stuco Video Submission",
-      "course": "STBHS Class of 2030",
-      "subject": "Class of 2030",
-      "subject_key": "cls",
-      "teacher": "",
-      "color": "#78716c",
-      "primary": false,
-      "type": "Other",
-      "status": "due",
-      "due": "2026-11-06T08:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1822/assignments/24776"
     },
     {
       "id": "24711",
@@ -938,6 +826,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/24711"
     },
     {
+      "id": "21997",
+      "title": "Module 3 Test",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Test",
+      "status": "due",
+      "due": "2026-11-06T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/21997"
+    },
+    {
       "id": "22380",
       "title": "St. John Bosco Food Drive (ends; drop-off B109/B110)",
       "course": "Key Club",
@@ -952,22 +856,6 @@
       "all_day": true,
       "points": 0.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1846/assignments/22380"
-    },
-    {
-      "id": "25396",
-      "title": "📗📙📗Test #2 Lessons 3.1-3.4",
-      "course": "Algebra 1 - De La Campa - 3(A)",
-      "subject": "Algebra 1",
-      "subject_key": "alg",
-      "teacher": "De La Campa",
-      "color": "#2563eb",
-      "primary": true,
-      "type": "Test",
-      "status": "due",
-      "due": "2026-11-09T15:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/25396"
     },
     {
       "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp4",
@@ -1098,6 +986,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4690"
     },
     {
+      "id": "25396",
+      "title": "📗📙📗Test #2 Lessons 3.1-3.4",
+      "course": "Algebra 1 - De La Campa - 3(A)",
+      "subject": "Algebra 1",
+      "subject_key": "alg",
+      "teacher": "De La Campa",
+      "color": "#2563eb",
+      "primary": true,
+      "type": "Test",
+      "status": "due",
+      "due": "2026-11-17T15:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/25396"
+    },
+    {
       "id": "24285",
       "title": "📘 Pearson HW Lesson 3.5",
       "course": "Algebra 1 - De La Campa - 3(A)",
@@ -1112,6 +1016,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24285"
+    },
+    {
+      "id": "26635",
+      "title": "✅ IXLs highlighted in K and L",
+      "course": "Algebra 1 - De La Campa - 3(A)",
+      "subject": "Algebra 1",
+      "subject_key": "alg",
+      "teacher": "De La Campa",
+      "color": "#2563eb",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-18T08:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/26635"
     },
     {
       "id": "26103",
