@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T16:20:30.739486-05:00",
+  "updated": "2026-11-08T16:13:11.832681-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -858,22 +858,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/24704"
     },
     {
-      "id": "22380",
-      "title": "St. John Bosco Food Drive (ends; drop-off B109/B110)",
-      "course": "Key Club",
-      "subject": "Key Club",
-      "subject_key": "club",
-      "teacher": "",
-      "color": "#4f46e5",
-      "primary": true,
-      "type": "Other",
-      "status": "due",
-      "due": "2026-11-06T23:59:00-05:00",
-      "all_day": true,
-      "points": 0.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1846/assignments/22380"
-    },
-    {
       "id": "25381",
       "title": "🧐✏️ Quiz# 2 Lessons 3.1-3.2",
       "course": "Algebra 1 - De La Campa - 3(A)",
@@ -890,7 +874,7 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/25381"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp4",
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp4",
       "title": "IXL V4, E4, and G1 (from lesson plan)",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -903,10 +887,10 @@
       "due": "2026-11-09T23:59:00-05:00",
       "all_day": true,
       "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp4"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp4"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp5",
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp5",
       "title": "Voc. #5 Quiz (in class; from lesson plan)",
       "course": "English 1 - Duran - 4(A)",
       "subject": "English 1",
@@ -919,7 +903,7 @@
       "due": "2026-11-09T23:59:00-05:00",
       "all_day": true,
       "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-2nd-week-13#lp5"
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp5"
     },
     {
       "id": "26362",
@@ -1002,6 +986,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments/25607"
     },
     {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp6",
+      "title": "Othello ACT II Test (in class; from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Test",
+      "status": "due",
+      "due": "2026-11-12T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp6"
+    },
+    {
       "id": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4690",
       "title": "Nov 14: San Juan Bosco Food Distribution (8:30am–12:30pm; register)",
       "course": "Key Club",
@@ -1016,6 +1016,38 @@
       "all_day": false,
       "points": 0.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4690"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp7",
+      "title": "IXL U1, V5, and TT4 (from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-16T07:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp7"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp8",
+      "title": "IXL Quiz (in class; from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Quiz",
+      "status": "due",
+      "due": "2026-11-16T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp8"
     },
     {
       "id": "25396",
@@ -1048,6 +1080,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24285"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp9",
+      "title": "Voc. #6 (from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-17T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp9"
     },
     {
       "id": "26635",
@@ -1096,6 +1144,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24297"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp10",
+      "title": "Voc. #6 Quiz (in class; from lesson plan)",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Quiz",
+      "status": "due",
+      "due": "2026-11-19T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp10"
     }
   ]
 }
