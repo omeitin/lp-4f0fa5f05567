@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T16:09:42.103495-05:00",
+  "updated": "2026-11-09T17:10:20.647015-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -792,22 +792,6 @@
       "all_day": false,
       "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/25754"
-    },
-    {
-      "id": "24270",
-      "title": "📘 Pearson HW Lesson 3.2 (no submission)",
-      "course": "Algebra 1 - De La Campa - 3(A)",
-      "subject": "Algebra 1",
-      "subject_key": "alg",
-      "teacher": "De La Campa",
-      "color": "#2563eb",
-      "primary": true,
-      "type": "Homework",
-      "status": "missing",
-      "due": "2026-11-05T20:00:00-05:00",
-      "all_day": false,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24270"
     },
     {
       "id": "22007",
