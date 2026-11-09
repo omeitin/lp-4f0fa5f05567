@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T12:03:28.711741-05:00",
+  "updated": "2026-11-09T16:09:42.103495-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -858,22 +858,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/24704"
     },
     {
-      "id": "25381",
-      "title": "🧐✏️ Quiz# 2 Lessons 3.1-3.2",
-      "course": "Algebra 1 - De La Campa - 3(A)",
-      "subject": "Algebra 1",
-      "subject_key": "alg",
-      "teacher": "De La Campa",
-      "color": "#2563eb",
-      "primary": true,
-      "type": "Quiz",
-      "status": "due",
-      "due": "2026-11-09T15:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/25381"
-    },
-    {
       "id": "26829",
       "title": "Dress Out / Participation",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
@@ -984,6 +968,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24280"
+    },
+    {
+      "id": "27022",
+      "title": "Topic 10 Textbook",
+      "course": "World History - Aguiar - 1(A)",
+      "subject": "World History",
+      "subject_key": "wh",
+      "teacher": "Aguiar",
+      "color": "#b45309",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-10T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments/27022"
     },
     {
       "id": "25972",
