@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T16:12:12.174851-05:00",
+  "updated": "2026-11-11T11:53:22.298002-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -890,54 +890,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments/27215"
     },
     {
-      "id": "24280",
-      "title": "📘 Pearson HW Lesson 3.3",
-      "course": "Algebra 1 - De La Campa - 3(A)",
-      "subject": "Algebra 1",
-      "subject_key": "alg",
-      "teacher": "De La Campa",
-      "color": "#2563eb",
-      "primary": true,
-      "type": "Homework",
-      "status": "due",
-      "due": "2026-11-10T20:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24280"
-    },
-    {
-      "id": "27022",
-      "title": "Topic 10 Textbook",
-      "course": "World History - Aguiar - 1(A)",
-      "subject": "World History",
-      "subject_key": "wh",
-      "teacher": "Aguiar",
-      "color": "#b45309",
-      "primary": true,
-      "type": "Homework",
-      "status": "due",
-      "due": "2026-11-10T23:59:00-05:00",
-      "all_day": true,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments/27022"
-    },
-    {
-      "id": "27153",
-      "title": "V4, E4, and G1 due 11/09",
-      "course": "English 1 - Duran - 4(A)",
-      "subject": "English 1",
-      "subject_key": "eng",
-      "teacher": "Duran",
-      "color": "#9333ea",
-      "primary": true,
-      "type": "Homework",
-      "status": "due",
-      "due": "2026-11-10T23:59:00-05:00",
-      "all_day": true,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/27153"
-    },
-    {
       "id": "25972",
       "title": "ACT II",
       "course": "English 1 - Duran - 4(A)",
@@ -1192,6 +1144,22 @@
       "all_day": false,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments/26103"
+    },
+    {
+      "id": "https://stbrendanhigh.instructure.com/courses/1525/announcements/4913",
+      "title": "Thanksgiving Food Drive items to Period 1 box (from email; Thursday morning)",
+      "course": "Resource9 - Montes - 8(A)",
+      "subject": "Resource9",
+      "subject_key": "res",
+      "teacher": "Montes",
+      "color": "#0d9488",
+      "primary": true,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-11-19T08:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1525/announcements/4913"
     },
     {
       "id": "24297",
