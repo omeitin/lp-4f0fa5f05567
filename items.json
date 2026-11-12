@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T16:12:14.572600-05:00",
+  "updated": "2026-11-12T15:53:19.847222-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -938,22 +938,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/27153"
     },
     {
-      "id": "25972",
-      "title": "ACT II",
-      "course": "English 1 - Duran - 4(A)",
-      "subject": "English 1",
-      "subject_key": "eng",
-      "teacher": "Duran",
-      "color": "#9333ea",
-      "primary": true,
-      "type": "Homework",
-      "status": "due",
-      "due": "2026-11-12T07:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/25972"
-    },
-    {
       "id": "24289",
       "title": "📘 Pearson HW Lesson 3.4",
       "course": "Algebra 1 - De La Campa - 3(A)",
@@ -1130,6 +1114,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24285"
     },
     {
+      "id": "27550",
+      "title": "ACT III Student Teach",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-17T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/27550"
+    },
+    {
       "id": "26833",
       "title": "Dress Out / Participation",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
@@ -1288,6 +1288,22 @@
       "all_day": true,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26837"
+    },
+    {
+      "id": "26840",
+      "title": "Dress Out / Participation",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-12-03T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26840"
     }
   ]
 }
