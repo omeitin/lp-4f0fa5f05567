@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T16:11:10.502939-05:00",
+  "updated": "2026-11-15T16:08:37.359841-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -968,22 +968,6 @@
       "all_day": false,
       "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments"
-    },
-    {
-      "id": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4690",
-      "title": "Nov 14: San Juan Bosco Food Distribution (8:30am–12:30pm; register)",
-      "course": "Key Club",
-      "subject": "Key Club",
-      "subject_key": "club",
-      "teacher": "",
-      "color": "#4f46e5",
-      "primary": true,
-      "type": "Other",
-      "status": "due",
-      "due": "2026-11-14T08:30:00-05:00",
-      "all_day": false,
-      "points": 0.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1846/announcements/4690"
     },
     {
       "id": "27702",
