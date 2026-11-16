@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T16:08:37.359841-05:00",
+  "updated": "2026-11-16T16:13:09.942950-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -970,54 +970,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments"
     },
     {
-      "id": "27702",
-      "title": "Ch. 2 Reading Guide",
-      "course": "Rev Christ in Scripture-Jewish Hist (S1) - Heistand - 2(A)",
-      "subject": "Theology",
-      "subject_key": "theo",
-      "teacher": "Heistand",
-      "color": "#0891b2",
-      "primary": true,
-      "type": "Other",
-      "status": "due",
-      "due": "2026-11-15T23:59:00-05:00",
-      "all_day": true,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1459/assignments/27702"
-    },
-    {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp7",
-      "title": "IXL U1, V5, and TT4 (from lesson plan)",
-      "course": "English 1 - Duran - 4(A)",
-      "subject": "English 1",
-      "subject_key": "eng",
-      "teacher": "Duran",
-      "color": "#9333ea",
-      "primary": true,
-      "type": "Homework",
-      "status": "due",
-      "due": "2026-11-16T07:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp7"
-    },
-    {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/announcements",
-      "title": "Othello ACT III: read & annotate pp. 89-107 (from lesson plan)",
-      "course": "English 1 - Duran - 4(A)",
-      "subject": "English 1",
-      "subject_key": "eng",
-      "teacher": "Duran",
-      "color": "#9333ea",
-      "primary": true,
-      "type": "Homework",
-      "status": "due",
-      "due": "2026-11-16T07:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/announcements"
-    },
-    {
       "id": "26851",
       "title": "Nutrients (M10,L2)",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
@@ -1048,6 +1000,38 @@
       "all_day": true,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments/27290"
+    },
+    {
+      "id": "28153",
+      "title": "Thanksgiving Vocab. Activity",
+      "course": "Spanish 2 - Alvarez - 7(A)",
+      "subject": "Spanish 2",
+      "subject_key": "spa",
+      "teacher": "Alvarez",
+      "color": "#e11d48",
+      "primary": true,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-11-16T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/28153"
+    },
+    {
+      "id": "28036",
+      "title": "U1,V5, and TT4 due 11/16",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-16T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/28036"
     },
     {
       "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp8",
@@ -1178,6 +1162,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments/26103"
     },
     {
+      "id": "28156",
+      "title": "QUIZ-Dia de accion de gracias",
+      "course": "Spanish 2 - Alvarez - 7(A)",
+      "subject": "Spanish 2",
+      "subject_key": "spa",
+      "teacher": "Alvarez",
+      "color": "#e11d48",
+      "primary": true,
+      "type": "Quiz",
+      "status": "due",
+      "due": "2026-11-18T14:30:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/28156"
+    },
+    {
       "id": "https://stbrendanhigh.instructure.com/courses/1525/announcements/4913",
       "title": "Thanksgiving Food Drive items to Period 1 box (from email; Thursday morning)",
       "course": "Resource9 - Montes - 8(A)",
@@ -1288,6 +1288,22 @@
       "all_day": true,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26840"
+    },
+    {
+      "id": "26842",
+      "title": "Dress Out / Participation",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-12-07T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26842"
     }
   ]
 }
