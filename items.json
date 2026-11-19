@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:12:18.221287-05:00",
+  "updated": "2026-11-19T16:07:38.281449-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -970,22 +970,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1525/announcements/4913",
-      "title": "Thanksgiving Food Drive items to Period 1 box (from email; Thursday morning)",
-      "course": "Resource9 - Montes - 8(A)",
-      "subject": "Resource9",
-      "subject_key": "res",
-      "teacher": "Montes",
-      "color": "#0d9488",
-      "primary": true,
-      "type": "Other",
-      "status": "due",
-      "due": "2026-11-19T08:00:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1525/announcements/4913"
-    },
-    {
       "id": "24297",
       "title": "📘 Pearson HW Lesson 3.6",
       "course": "Algebra 1 - De La Campa - 3(A)",
@@ -1018,6 +1002,38 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26835"
     },
     {
+      "id": "28156",
+      "title": "QUIZ-Dia de accion de gracias",
+      "course": "Spanish 2 - Alvarez - 7(A)",
+      "subject": "Spanish 2",
+      "subject_key": "spa",
+      "teacher": "Alvarez",
+      "color": "#e11d48",
+      "primary": true,
+      "type": "Quiz",
+      "status": "due",
+      "due": "2026-11-19T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/28156"
+    },
+    {
+      "id": "28862",
+      "title": "Voc. #6 Quiz",
+      "course": "English 1 - Duran - 4(A)",
+      "subject": "English 1",
+      "subject_key": "eng",
+      "teacher": "Duran",
+      "color": "#9333ea",
+      "primary": true,
+      "type": "Quiz",
+      "status": "due",
+      "due": "2026-11-19T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/28862"
+    },
+    {
       "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp10",
       "title": "Voc. #6 Quiz (in class; from lesson plan)",
       "course": "English 1 - Duran - 4(A)",
@@ -1032,6 +1048,22 @@
       "all_day": true,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp10"
+    },
+    {
+      "id": "28917",
+      "title": "IXL's due on 11/20/26",
+      "course": "Spanish 2 - Alvarez - 7(A)",
+      "subject": "Spanish 2",
+      "subject_key": "spa",
+      "teacher": "Alvarez",
+      "color": "#e11d48",
+      "primary": true,
+      "type": "Homework",
+      "status": "due",
+      "due": "2026-11-20T14:30:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/28917"
     },
     {
       "id": "26846",
@@ -1082,6 +1114,22 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26840"
     },
     {
+      "id": "28887",
+      "title": "Topic 11-Test",
+      "course": "World History - Aguiar - 1(A)",
+      "subject": "World History",
+      "subject_key": "wh",
+      "teacher": "Aguiar",
+      "color": "#b45309",
+      "primary": true,
+      "type": "Test",
+      "status": "due",
+      "due": "2026-12-03T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1231/assignments/28887"
+    },
+    {
       "id": "26842",
       "title": "Dress Out / Participation",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
@@ -1096,6 +1144,22 @@
       "all_day": true,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26842"
+    },
+    {
+      "id": "26845",
+      "title": "Dress Out / Participation",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-12-10T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26845"
     }
   ]
 }
