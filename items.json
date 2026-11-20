@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T16:07:38.281449-05:00",
+  "updated": "2026-11-20T11:52:32.586902-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -474,22 +474,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/22551"
     },
     {
-      "id": "22002",
-      "title": "Dress Out / Participation (no submission)",
-      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
-      "subject": "HOPE-PE",
-      "subject_key": "pe",
-      "teacher": "Sussingham",
-      "color": "#64748b",
-      "primary": false,
-      "type": "Other",
-      "status": "missing",
-      "due": "2026-10-20T23:59:00-04:00",
-      "all_day": true,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22002"
-    },
-    {
       "id": "22519",
       "title": "J3, S2, and RR2 due 10/19",
       "course": "English 1 - Duran - 4(A)",
@@ -504,6 +488,22 @@
       "all_day": true,
       "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/22519"
+    },
+    {
+      "id": "22002",
+      "title": "Dress Out / Participation (no submission)",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Other",
+      "status": "missing",
+      "due": "2026-10-20T23:59:00-04:00",
+      "all_day": true,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22002"
     },
     {
       "id": "23044",
@@ -922,22 +922,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments"
     },
     {
-      "id": "https://stbrendanhigh.instructure.com/courses/1220/assignments",
-      "title": "📘 Pearson HW Lesson 3.4 (no submission)",
-      "course": "Algebra 1 - De La Campa - 3(A)",
-      "subject": "Algebra 1",
-      "subject_key": "alg",
-      "teacher": "De La Campa",
-      "color": "#2563eb",
-      "primary": true,
-      "type": "Homework",
-      "status": "missing",
-      "due": "2026-11-12T20:00:00-05:00",
-      "all_day": false,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments"
-    },
-    {
       "id": "https://stbrendanhigh.instructure.com/courses/1319/assignments",
       "title": "Dress Out / Participation (no submission)",
       "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
@@ -970,8 +954,8 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1373/assignments"
     },
     {
-      "id": "24297",
-      "title": "📘 Pearson HW Lesson 3.6",
+      "id": "24285",
+      "title": "📘 Pearson HW Lesson 3.5 (graded 0/100)",
       "course": "Algebra 1 - De La Campa - 3(A)",
       "subject": "Algebra 1",
       "subject_key": "alg",
@@ -979,75 +963,11 @@
       "color": "#2563eb",
       "primary": true,
       "type": "Homework",
-      "status": "due",
-      "due": "2026-11-19T20:00:00-05:00",
+      "status": "missing",
+      "due": "2026-11-17T20:00:00-05:00",
       "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24297"
-    },
-    {
-      "id": "26835",
-      "title": "Dress Out / Participation",
-      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
-      "subject": "HOPE-PE",
-      "subject_key": "pe",
-      "teacher": "Sussingham",
-      "color": "#64748b",
-      "primary": false,
-      "type": "Other",
-      "status": "due",
-      "due": "2026-11-19T23:59:00-05:00",
-      "all_day": true,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26835"
-    },
-    {
-      "id": "28156",
-      "title": "QUIZ-Dia de accion de gracias",
-      "course": "Spanish 2 - Alvarez - 7(A)",
-      "subject": "Spanish 2",
-      "subject_key": "spa",
-      "teacher": "Alvarez",
-      "color": "#e11d48",
-      "primary": true,
-      "type": "Quiz",
-      "status": "due",
-      "due": "2026-11-19T23:59:00-05:00",
-      "all_day": true,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/28156"
-    },
-    {
-      "id": "28862",
-      "title": "Voc. #6 Quiz",
-      "course": "English 1 - Duran - 4(A)",
-      "subject": "English 1",
-      "subject_key": "eng",
-      "teacher": "Duran",
-      "color": "#9333ea",
-      "primary": true,
-      "type": "Quiz",
-      "status": "due",
-      "due": "2026-11-19T23:59:00-05:00",
-      "all_day": true,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/assignments/28862"
-    },
-    {
-      "id": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp10",
-      "title": "Voc. #6 Quiz (in class; from lesson plan)",
-      "course": "English 1 - Duran - 4(A)",
-      "subject": "English 1",
-      "subject_key": "eng",
-      "teacher": "Duran",
-      "color": "#9333ea",
-      "primary": true,
-      "type": "Quiz",
-      "status": "due",
-      "due": "2026-11-19T23:59:00-05:00",
-      "all_day": true,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1790/pages/eng-1-lesson-plans-wk-of-nov-9th-week-14#lp10"
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24285"
     },
     {
       "id": "28917",
@@ -1160,6 +1080,22 @@
       "all_day": true,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26845"
+    },
+    {
+      "id": "26849",
+      "title": "Nutrient Labels and Food Safety (M10,L4)",
+      "course": "HOPE-Physical Education (Core) - Sussingham - 5(A)",
+      "subject": "HOPE-PE",
+      "subject_key": "pe",
+      "teacher": "Sussingham",
+      "color": "#64748b",
+      "primary": false,
+      "type": "Other",
+      "status": "due",
+      "due": "2026-12-11T23:59:00-05:00",
+      "all_day": true,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26849"
     }
   ]
 }
