@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T11:52:32.586902-05:00",
+  "updated": "2026-11-20T16:13:27.672393-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -506,22 +506,6 @@
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/22002"
     },
     {
-      "id": "23044",
-      "title": "-car,-gar, -zar verbs practice worksheets (submitted late Nov 2, graded 0/100)",
-      "course": "Spanish 2 - Alvarez - 7(A)",
-      "subject": "Spanish 2",
-      "subject_key": "spa",
-      "teacher": "Alvarez",
-      "color": "#e11d48",
-      "primary": true,
-      "type": "Homework",
-      "status": "missing",
-      "due": "2026-10-21T14:30:00-04:00",
-      "all_day": false,
-      "points": 100.0,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/23044"
-    },
-    {
       "id": "23043",
       "title": "Ch. 2 L1 -car, -gar, -zar Verbs in Preterite Exercises (submitted late Nov 2, graded 0/100)",
       "course": "Spanish 2 - Alvarez - 7(A)",
@@ -536,6 +520,22 @@
       "all_day": false,
       "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/23043"
+    },
+    {
+      "id": "23044",
+      "title": "-car,-gar, -zar verbs practice worksheets (submitted late Nov 2, graded 0/100)",
+      "course": "Spanish 2 - Alvarez - 7(A)",
+      "subject": "Spanish 2",
+      "subject_key": "spa",
+      "teacher": "Alvarez",
+      "color": "#e11d48",
+      "primary": true,
+      "type": "Homework",
+      "status": "missing",
+      "due": "2026-10-21T14:30:00-04:00",
+      "all_day": false,
+      "points": 100.0,
+      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/23044"
     },
     {
       "id": "21076",
@@ -968,22 +968,6 @@
       "all_day": false,
       "points": 100.0,
       "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/24285"
-    },
-    {
-      "id": "28917",
-      "title": "IXL's due on 11/20/26",
-      "course": "Spanish 2 - Alvarez - 7(A)",
-      "subject": "Spanish 2",
-      "subject_key": "spa",
-      "teacher": "Alvarez",
-      "color": "#e11d48",
-      "primary": true,
-      "type": "Homework",
-      "status": "due",
-      "due": "2026-11-20T14:30:00-05:00",
-      "all_day": false,
-      "points": null,
-      "url": "https://stbrendanhigh.instructure.com/courses/1180/assignments/28917"
     },
     {
       "id": "26846",
