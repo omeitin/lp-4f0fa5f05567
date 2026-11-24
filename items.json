@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T16:07:35.819634-05:00",
+  "updated": "2026-11-24T16:14:15.600619-05:00",
   "timezone": "America/New_York",
   "window_days": 21,
   "subjects": [
@@ -1080,6 +1080,22 @@
       "all_day": true,
       "points": null,
       "url": "https://stbrendanhigh.instructure.com/courses/1319/assignments/26849"
+    },
+    {
+      "id": "26749",
+      "title": "📗📙📗Test #3 Quarterly Exam",
+      "course": "Algebra 1 - De La Campa - 3(A)",
+      "subject": "Algebra 1",
+      "subject_key": "alg",
+      "teacher": "De La Campa",
+      "color": "#2563eb",
+      "primary": true,
+      "type": "Test",
+      "status": "due",
+      "due": "2026-12-15T15:00:00-05:00",
+      "all_day": false,
+      "points": null,
+      "url": "https://stbrendanhigh.instructure.com/courses/1220/assignments/26749"
     }
   ]
 }
